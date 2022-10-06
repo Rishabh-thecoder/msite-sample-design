@@ -5,6 +5,7 @@ import Topheader from '../components/Topheader';
 
 
 export default function Baazi1000x() {
+  
   return (
     <div>
       <Topheader colorbox="light-blue" title="Baazi 1000x" />
@@ -38,6 +39,14 @@ export default function Baazi1000x() {
                 tournament.map( tournament => {
                   return(
                     <>
+                    {( typeof tournament.break !== 'undefined' && tournament.break === true) &&
+                    
+                      <div>               
+                        <img src="../images/icons/clock-img.png" alt="" width={20} /><strong> {tournament['Day-count']} : {tournament.Day}  </strong>
+                      </div>
+                      
+                    }
+                   
                     <div className='white-box'>
                       <strong><p>{tournament.Sno}{tournament.Name}</p></strong>  
                       <div className="d-flex justify-content-between">

@@ -13,7 +13,7 @@ export default function Promotions() {
     <div>
       <Topheader title="Promotions" />
 
-      <div className="container" >
+      <div className="container">
         <div className="row">
           <div className="col-md-12">
             <div className='my-3'>

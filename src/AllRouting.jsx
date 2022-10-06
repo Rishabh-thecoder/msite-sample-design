@@ -16,9 +16,10 @@ export default function AllRouting() {
       <Router>     
       <Routes>          
           <Route path="/"  element={<Promotions/>} />
+          {/* <Route path="/:pagename"  element={<Promotions path="${}"/>} /> */}
           <Route path="/baazi1000x" element={<Baazi1000x/>} />
-          <Route path="/baaziturbo" element={<BaaziTurbo/>} />
-          <Route path="/cashroyal5" element={<CashRoyal5/>} />       
+          <Route path="/cashroyal5" element={<CashRoyal5/>} />   
+          <Route path="/baaziturbo" element={<BaaziTurbo/>} />              
       </Routes>
     </Router>
     </div>
