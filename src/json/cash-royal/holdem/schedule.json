@@ -1,0 +1,263 @@
+[
+  {
+    "Time": "12AM - 2AM",
+    "PrizePool": 8000,
+    "Places Paid": 160,
+    "Type": "micro",
+    "Break": true,
+    "Stakes": "2/5 and 5/10"
+  },
+  {
+    "Time": "2AM - 4AM",
+    "PrizePool": 5000,
+    "Places Paid": 100,
+    "Type": "micro"
+  },
+  {
+    "Time": "4AM - 6AM",
+    "PrizePool": 2000,
+    "Places Paid": 50,
+    "Type": "micro"
+  },
+  {
+    "Time": "6AM - 8AM",
+    "PrizePool": 1500,
+    "Places Paid": 50,
+    "Type": "micro"
+  },
+  {
+    "Time": "8AM - 10 AM",
+    "PrizePool": 3000,
+    "Places Paid": 75,
+    "Type": "micro"
+  },
+  {
+    "Time": "10AM - 12PM",
+    "PrizePool": 3000,
+    "Places Paid": 75,
+    "Type": "micro"
+  },
+  {
+    "Time": "12PM - 2PM",
+    "PrizePool": 4000,
+    "Places Paid": 90,
+    "Type": "micro"
+  },
+  {
+    "Time": "2PM - 4PM",
+    "PrizePool": 4000,
+    "Places Paid": 90,
+    "Type": "micro"
+  },
+  {
+    "Time": "4PM - 6PM",
+    "PrizePool": 5000,
+    "Places Paid": 100,
+    "Type": "micro"
+  },
+  {
+    "Time": "6PM - 8PM",
+    "PrizePool": 5000,
+    "Places Paid": 100,
+    "Type": "micro"
+  },
+  {
+    "Time": "8PM - 10PM",
+    "PrizePool": 6500,
+    "Places Paid": 125,
+    "Type": "micro"
+  },
+  {
+    "Time": "10PM - 12AM",
+    "PrizePool": 8000,
+    "Places Paid": 160,
+    "Type": "micro"
+  },
+  {
+    "Time": "12AM - 2AM",
+    "PrizePool": 27000,
+    "Places Paid": 80,
+    "Type": "low",
+    "Break": true,
+    "Stakes": "25/50 and 10/25"
+  },
+  {
+    "Time": "2AM - 4AM",
+    "PrizePool": 18000,
+    "Places Paid": 65,
+    "Type": "low"
+  },
+  {
+    "Time": "4AM - 6AM",
+    "PrizePool": 10000,
+    "Places Paid": 50,
+    "Type": "low"
+  },
+  {
+    "Time": "6AM - 8AM",
+    "PrizePool": 7000,
+    "Places Paid": 40,
+    "Type": "low"
+  },
+  {
+    "Time": "8AM - 10 AM",
+    "PrizePool": 13000,
+    "Places Paid": 50,
+    "Type": "low"
+  },
+  {
+    "Time": "10AM - 12PM",
+    "PrizePool": 15000,
+    "Places Paid": 50,
+    "Type": "low"
+  },
+  {
+    "Time": "12PM - 2PM",
+    "PrizePool": 17000,
+    "Places Paid": 60,
+    "Type": "low"
+  },
+  {
+    "Time": "2PM - 4PM",
+    "PrizePool": 20000,
+    "Places Paid": 70,
+    "Type": "low"
+  },
+  {
+    "Time": "4PM - 6PM",
+    "PrizePool": 18000,
+    "Places Paid": 70,
+    "Type": "low"
+  },
+  {
+    "Time": "6PM - 8PM",
+    "PrizePool": 18000,
+    "Places Paid": 65,
+    "Type": "low"
+  },
+  {
+    "Time": "8PM - 10PM",
+    "PrizePool": 20000,
+    "Places Paid": 70,
+    "Type": "low"
+  },
+  {
+    "Time": "10PM - 12AM",
+    "PrizePool": 27000,
+    "Places Paid": 80,
+    "Type": "low"
+  },
+  {
+    "Time": "12AM - 2AM",
+    "PrizePool": 45000,
+    "Places Paid": 90,
+    "Type": "Mid",
+    "Break": true,
+    "Stakes": "50/100 and 100/200"
+  },
+  {
+    "Time": "2AM - 4AM",
+    "PrizePool": 25000,
+    "Places Paid": 50,
+    "Type": "Mid"
+  },
+  {
+    "Time": "4AM - 6AM",
+    "PrizePool": 15000,
+    "Places Paid": 30,
+    "Type": "Mid"
+  },
+  {
+    "Time": "6AM - 8AM",
+    "PrizePool": 10000,
+    "Places Paid": 25,
+    "Type": "Mid"
+  },
+  {
+    "Time": "8AM - 10 AM",
+    "PrizePool": 14000,
+    "Places Paid": 35,
+    "Type": "Mid"
+  },
+  {
+    "Time": "10AM - 12PM",
+    "PrizePool": 17000,
+    "Places Paid": 40,
+    "Type": "Mid"
+  },
+  {
+    "Time": "12PM - 2PM",
+    "PrizePool": 27000,
+    "Places Paid": 55,
+    "Type": "Mid"
+  },
+  {
+    "Time": "2PM - 4PM",
+    "PrizePool": 30000,
+    "Places Paid": 55,
+    "Type": "Mid"
+  },
+  {
+    "Time": "4PM - 6PM",
+    "PrizePool": 35000,
+    "Places Paid": 55,
+    "Type": "Mid"
+  },
+  {
+    "Time": "6PM - 8PM",
+    "PrizePool": 32000,
+    "Places Paid": 50,
+    "Type": "Mid"
+  },
+  {
+    "Time": "8PM - 10PM",
+    "PrizePool": 35000,
+    "Places Paid": 50,
+    "Type": "Mid"
+  },
+  {
+    "Time": "10PM - 12AM",
+    "PrizePool": 45000,
+    "Places Paid": 90,
+    "Type": "Mid"
+  },
+  {
+    "Time": "12AM - 4AM",
+    "PrizePool": 30000,
+    "Places Paid": 25,
+    "Type": "High",
+    "Break": true,
+    "Stakes": "250/500"
+  },
+  {
+    "Time": "4AM - 8AM",
+    "PrizePool": 15000,
+    "Places Paid": 12,
+    "Type": "High"
+  },
+  {
+    "Time": "8AM - 12 PM",
+    "PrizePool": 15000,
+    "Places Paid": 15,
+    "Type": "High"
+  },
+  {
+    "Time": "12PM - 4PM",
+    "PrizePool": 25000,
+    "Places Paid": 20,
+    "Type": "High"
+  },
+  {
+    "Time": "4PM - 8PM",
+    "PrizePool": 30000,
+    "Places Paid": 25,
+    "Type": "High"
+  },
+  {
+    "Time": "8PM - 12AM",
+    "PrizePool": 35000,
+    "Places Paid": 25,
+    "Type": "High"
+   
+  }
+]

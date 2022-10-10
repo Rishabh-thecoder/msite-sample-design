@@ -1,7 +1,6 @@
 import React from 'react';
-import '../json/leaderboard.json';
-import leaderbaoard from '../json/leaderboard.json';
-import tournament from '../json/tournament.json';
+import leaderbaoard from '../json/1000x/leaderboard.json';
+import tournament from '../json/1000x/tournament.json';
 import Topheader from '../components/Topheader';
 export default function BaaziTurbo() {
   return (

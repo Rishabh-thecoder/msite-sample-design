@@ -5,14 +5,17 @@ coz by doing this, we will get the url of every page/component which we want.
  */
 import React from 'react'
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
+import { useParams } from 'react-router-dom';
 import Baazi1000x from './pages/Baazi1000x';
 import BaaziTurbo from './pages/BaaziTurbo';
 import CashRoyal5 from './pages/CashRoyal5';
 import Promotions from './Promotions';
 
 export default function AllRouting() {
+  let { pagename } = useParams();
   return (
     <div>
+      {/* <h1>ID: {id}</h1> */}
       <Router>     
       <Routes>          
           <Route path="/"  element={<Promotions/>} />

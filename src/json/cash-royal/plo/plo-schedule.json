@@ -1,0 +1,62 @@
+[
+    {
+      "Time": "12AM - 2AM",
+      "PrizePool": 6000,
+      "Places Paid": 50
+    },
+    {
+      "Time": "2AM - 4AM",
+      "PrizePool": 4000,
+      "Places Paid": 40
+    },
+    {
+      "Time": "4AM - 6AM",
+      "PrizePool": 1500,
+      "Places Paid": 20
+    },
+    {
+      "Time": "6AM - 8AM",
+      "PrizePool": 1500,
+      "Places Paid": 25
+    },
+    {
+      "Time": "8AM - 10 AM",
+      "PrizePool": 2000,
+      "Places Paid": 25
+    },
+    {
+      "Time": "10AM - 12PM",
+      "PrizePool": 3000,
+      "Places Paid": 40
+    },
+    {
+      "Time": "12PM - 2PM",
+      "PrizePool": 3500,
+      "Places Paid": 35
+    },
+    {
+      "Time": "2PM - 4PM",
+      "PrizePool": 4000,
+      "Places Paid": 40
+    },
+    {
+      "Time": "4PM - 6PM",
+      "PrizePool": 3000,
+      "Places Paid": 40
+    },
+    {
+      "Time": "6PM - 8PM",
+      "PrizePool": 3500,
+      "Places Paid": 40
+    },
+    {
+      "Time": "8PM - 10PM",
+      "PrizePool": 5000,
+      "Places Paid": 45
+    },
+    {
+      "Time": "10PM - 12AM",
+      "PrizePool": 6000,
+      "Places Paid": 50
+    }
+   ]

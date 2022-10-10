@@ -1,7 +1,7 @@
-import React from 'react';
-import leaderbaoard from '../json/leaderboard.json';
-import tournament from '../json/tournament.json';
-import Topheader from '../components/Topheader';
+import React from 'react'
+import leaderbaoard from '../json/1000x/leaderboard.json'
+import tournament from '../json/1000x/tournament.json'
+import Topheader from '../components/Topheader'
 
 
 export default function Baazi1000x() {
@@ -155,6 +155,7 @@ export default function Baazi1000x() {
             TnC</button>
         </li>
       </ul>
+
     </div>
   )
 }

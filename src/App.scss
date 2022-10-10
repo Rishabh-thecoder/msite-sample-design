@@ -4,6 +4,7 @@ $global-black:#000;
 $global-gray:#aaa;
 $global-box-shadow:0 2px 6px rgb(0 0 0 / 20%);
 $global-width:600px;
+$global-yellow:#e89004;
 
 //color are here
 $white-color:#fff;
@@ -29,6 +30,14 @@ body{
   text-align: center;
   font-size: $font-20;
 }
+.bluebox-txt
+{
+  @extend .blue-box;
+  font-size: 12px;
+  padding: 5px;
+  margin-left: 20px;
+
+}
 .light-blue
 {
   @extend .blue-box;
@@ -46,6 +55,23 @@ body{
   padding: 15px;
   margin: 15px;
 }
+.schedule-box
+{
+  background-color: $white-color;
+  box-shadow:$global-box-shadow;
+ 
+}
+.yellow-color
+{
+  color: $global-yellow;
+}
+.blue-shade
+{
+  background-color: #f4f6ff;
+}
+
+
+
 .nav-pills 
 { background-color: $white-color;
   .nav-link
