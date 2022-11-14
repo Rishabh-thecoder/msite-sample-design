@@ -5,11 +5,13 @@ import Topheader from '../components/Topheader'
 
 
 export default function Baazi1000x() {
+
+
   
   return (
     <div>
       <Topheader colorbox="light-blue" title="Baazi 1000x" />
-      <div className="container tab-content pt-0 mt-0 pb-5 mb-5" id="pills-tabContent">
+      <div className=" tab-content pt-0 mt-0 pb-5 mb-5" id="pills-tabContent">
         <div className="tab-pane fade show active" id="pills-info" role="tabpanel" aria-labelledby="pills-info-tab" tabindex="0">
         <div className='text-center'>
           <div>
@@ -48,7 +50,7 @@ export default function Baazi1000x() {
                     }
                    
                     <div className='white-box'>
-                      <strong><p>{tournament.Sno}{tournament.Name}</p></strong>  
+                      <strong><p className='demo'>{tournament.Sno}{tournament.Name} <span dangerouslySetInnerHTML={{__html: tournament.data}}></span>  </p></strong>  
                       <div className="d-flex justify-content-between">
                         <div ><img src='../images/icons/cash.png' alt='cash icon' width={15} /> <b>Buy-in: </b>{tournament['Buy-in']}+{tournament.Fee}</div>
                         <div ><img src='../images/icons/trophy.png' alt='trophy' width={15} /><b> Prize: </b>{tournament.Guarantee}</div>   

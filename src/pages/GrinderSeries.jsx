@@ -1,32 +1,36 @@
-import React from 'react';
-import leaderbaoard from '../json/1000x/leaderboard.json';
-import tournament from '../json/1000x/tournament.json';
-import Topheader from '../components/Topheader';
-export default function BaaziTurbo() {
+import React from 'react'
+import leaderbaoard from '../json/1000x/leaderboard.json'
+import tournament from '../json/1000x/tournament.json'
+import Topheader from '../components/Topheader'
+
+export default function GrinderSeries() {
   return (
     <div>
-        <Topheader colorbox="black-box" title="Baazi Turbo" />
-      <div className=" tab-content pb-5 mb-5" id="pills-tabContent">
+      <Topheader colorbox="light-blue" title="Grinder Series" />
+      <div className=" tab-content pt-0 mt-0 pb-5 mb-5" id="pills-tabContent">
         <div className="tab-pane fade show active" id="pills-info" role="tabpanel" aria-labelledby="pills-info-tab" tabindex="0">
         <div className='text-center'>
           <div>
-            <img src='./images/baazi-turbo/Main_card.png' alt='img1' className='img-fluid' />
+            <img src='../images/grinder-series/grinders-mainbanner-nov.png' alt='img1' className='img-fluid' />
           </div>
            <h3 className='text-center pt-4'>Series Highlights</h3>
           <div className='p-3'>
-            <img src='../images/baazi-turbo/Card_2.png' alt='img2' className='img-fluid' />
+            <img src='../images/grinder-series/CARD-2nov.png' alt='img2' className='img-fluid' />
           </div>
 
           <div className='px-3'>
-            <img src='../images/baazi-turbo/Card_3.png' alt='img3' className='img-fluid' />
+            <img src='../images/grinder-series/CARD-3nov.png' alt='img3' className='img-fluid' />
           </div>
 
           <div className='p-3'>
-            <img src='../images/baazi-turbo/Card_4.png' alt='img4' className='img-fluid' />
+            <img src='../images/grinder-series/CARD-4nov.png' alt='img4' className='img-fluid' />
+          </div>
+          <div className='p-3'>
+            <img src='../images/grinder-series/CARD-5nov.png' alt='img4' className='img-fluid' />
           </div>
 
           <div className='px-3'>
-            <img src='../images/baazi-turbo/Card_5.png' alt='img5' className='img-fluid' />
+            <img src='../images/grinder-series/CARD-6nov-new.png' alt='img5' className='img-fluid' />
           </div>
         </div>
           </div>
@@ -36,8 +40,16 @@ export default function BaaziTurbo() {
                 tournament.map( tournament => {
                   return(
                     <>
+                    {( typeof tournament.break !== 'undefined' && tournament.break === true) &&
+                    
+                      <div>               
+                        <img src="../images/icons/clock-img.png" alt="" width={20} /><strong> {tournament['Day-count']} : {tournament.Day}  </strong>
+                      </div>
+                      
+                    }
+                   
                     <div className='white-box'>
-                      <strong><p>{tournament.Sno}{tournament.Name}</p></strong>  
+                      <strong><p className='demo'>{tournament.Sno}{tournament.Name} <span dangerouslySetInnerHTML={{__html: tournament.data}}></span>  </p></strong>  
                       <div className="d-flex justify-content-between">
                         <div ><img src='../images/icons/cash.png' alt='cash icon' width={15} /> <b>Buy-in: </b>{tournament['Buy-in']}+{tournament.Fee}</div>
                         <div ><img src='../images/icons/trophy.png' alt='trophy' width={15} /><b> Prize: </b>{tournament.Guarantee}</div>   
@@ -131,7 +143,7 @@ export default function BaaziTurbo() {
         <li className="nav-item" role="presentation">
           <button className="nav-link gray-color" id="pills-tournament-tab" data-bs-toggle="pill" data-bs-target="#pills-tournament" type="button" role="tab" aria-controls="pills-tournament" aria-selected="false">
           <img src='../images/icons/schedule.svg' alt='schedule' width={23}/><br />
-            Tournaments</button>
+            Schedule</button>
         </li>
         <li className="nav-item" role="presentation">
           <button className="nav-link gray-color" id="pills-leaderboard-tab" data-bs-toggle="pill" data-bs-target="#pills-leaderboard" type="button" role="tab" aria-controls="pills-leaderboard" aria-selected="false">

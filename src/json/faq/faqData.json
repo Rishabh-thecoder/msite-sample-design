@@ -1,0 +1,199 @@
+
+{
+    "homepage": [
+        {
+            "question": "My KYC status is pending.",
+            "ans": "Pending: Your details are being reviewed by our team. The review is completed within 24 hours.",
+            "id": "faq1"
+        },
+        {
+            "question": "My KYC status is rejected.",
+            "ans": "  Rejected: Your KYC might be rejected due to one of the following reasons: <ul> <li> Unclear or incorrect document image </li><li> Invalid KYC (Under 18, restricted state, NRI or international) </li><li> Mismatch in KYC and Bank details </li><li> Minor PAN card </li></ul>",
+            "id": "faq2"
+        },
+        {
+            "question": "Can I change my bank details?",
+            "ans": "<ul> <li> Login to <a href=&quot;www.pokerbaazi.com&quot; target=&quot;_blank&quot;>www.pokerbaazi.com</a> or log in from a desktop or mobile app. </li><li>Click on &quot;My account&quot; in the desktop app or click on &quot;My profile&quot; on the mobile app.</li><li>On the desktop app, click on KYC and select the bank account option. Click on &quot;change bank details&quot; to update new bank details.</li><li>On the mobile app, click on &quot;change bank details&quot; to update new bank details.</li></ul>",
+            "id": "faq3"
+        },
+        {
+            "question": "Can I change my Contact Number?",
+            "ans": "<ul> <li>Log in to <a href=&quot;www.pokerbaazi.com&quot; target=&quot;_blank&quot;>www.pokerbaazi.com</a> or log in from the desktop or mobile app.</li><li>Click on &quot;My account&quot; in the desktop client or click on &quot;My profile&quot; on the mobile app.</li><li>On the desktop app, click on &quot;verify account&quot; and then click on the &quot;edit&quot; button next to your existing phone number. Enter the new phone number and verify it via OTP to update the new number.</li><li>On the mobile app, click on the &quot;edit&quot; button mentioned next to your existing phone number. Enter the new phone number and verify it via OTP to update the new number.</li></ul>",
+            "id": "faq4"
+        },
+        {
+            "question": "Why am I not able to deposit?",
+            "ans": "You may not be able to deposit due to one of the following reasons: <ul> <li>Information is incomplete or incorrect </li><li> Not following the rules for deposit (Allowed amount, less than minimum deposit) </li><li> Using an expired deposit code or not meeting minimum deposit requirements. </li><li> Using an international credit / debit card. </li><li> Using either one of the following payment methods - American Express, HDFC Diner Card, HDFC Net Banking/ </li><li> Issues with internet connectivity [please clear cache and cookies from your browser / app settings] </li></ul> <strong>NOTE:</strong> If the issue persists and we request you to share the screenshot/video with <a>playerrelations@pokerbaazi.com</a>. We will immediately get it checked with the technical team.",
+            "id": "faq5"
+        },
+        {
+            "question": "What if money is deducted from my bank  account <br/>but not reflected in my PokerBaazi account?",
+            "ans": "<p> Please check the video below to see why your transaction might not have gone through. </p><p> Stuck Transaction: Sometimes due to weak internet or some other similar issue, the transaction doesn’t reach us and gets stuck at your bank or the payment gateway. If the transaction is stuck at the payment gateway and once the transaction gets highlighted during the internal audits then we manually credit the same into your PokerBaazi account. <br/>You may also contact us over chat or send an email to <a>playerrelations@pokerbaazi.com</a> and share the transaction number/date time and amount and we will manually check and credit it. </p><p> <strong>Failed Transaction:</strong> In case the transaction fails at the gateway, it gets refunded to you by your bank. It usually takes 7-10 days for the refund. </p><p> <strong>Pending Transaction:</strong> At times, the transaction remains pending at the gateway. However, you don’t need to worry in this case. The correct status gets updated in 24 hours. </p>",
+            "id": "faq6"
+        },
+        {
+            "question": "Why am I not able to withdraw?",
+            "ans": "<p> You might not be able to withdraw due to one of the following reasons: </p><ul> <li> Incomplete or incorrect information. (Pending KYC, Incorrect Bank Details) </li><li> Not following the rules for withdrawal (Withdrawal Balance, Locked Balance, Withdrawing Less Than INR 100) </li><li> Not completing the coin criteria set by using a deposit code. </li><li> Entering the wrong OTP while making a withdrawal request. </li><li> Issues with internet connectivity [please clear cache and cookies from your browser / app settings] </li></ul> <p> <strong>Note:</strong> If the still issue persists, we request you to share the screenshot/video with <a>playerrelations@pokerbaazi.com</a>. We will immediately get it checked with our technical team. </p>",
+            "id": "faq7"
+        },
+        {
+            "question": "I have requested a withdrawal but I didn’t receive<br/> it in my bank account instantly. Why?",
+            "ans": "<p> The Instant Withdrawals feature is available to those players who have completed their KYC and it has been approved. The Instant Withdrawals feature might not be available in the following cases: </p><ul> <li> Per day Transaction Limit is 30K </li><li> If a fee is being charged on any withdrawal, it will be processed the next day. </li></ul>",
+            "id": "faq8"
+        },
+        {
+            "question": "My withdrawal should have been processed as<br/> per the withdrawal policy, however, I have not<br/> received the money and the status is showing<br/> pending. What should I do?",
+            "ans": "<p>Due to our internal verification process, some requests may be delayed by 72 hours. If there is any further delay, we will reach out to you on your registered email ID.</p>",
+            "id": "faq9"
+        },
+        {
+            "question": "Why am I not able to deposit?",
+            "ans": "You may not be able to deposit due to one of the following reasons: <ul> <li>Information is incomplete or incorrect </li><li> Not following the rules for deposit (Allowed amount, less than minimum deposit) </li><li> Using an expired deposit code or not meeting minimum deposit requirements. </li><li> Using an international credit / debit card. </li><li> Using either one of the following payment methods - American Express, HDFC Diner Card, HDFC Net Banking/ </li><li> Issues with internet connectivity [please clear cache and cookies from your browser / app settings] </li></ul> <strong>NOTE:</strong> If the issue persists and we request you to share the screenshot/video with <a>playerrelations@pokerbaazi.com</a>. We will immediately get it checked with the technical team.",
+            "id": "faq10"
+        },
+        {
+            "question": "When will I get the leaderboard winnings?",
+            "ans": "<p> Tournament Leaderboard winnings get credited the next working day once the tournament series gets over in the form of RCB in your PokerBaazi account. </p><p> If there is a daily/weekly/monthly/yearly leaderboard running then the same will be credited by the next working day in the form of RCB in your PokerBaazi account. </p><p> Cash games leaderboard winnings get credited to your PokerBaazi account the next working day after the cash game promotion for the leaderboard ends. </p>",
+            "id": "faq11"
+        },
+        {
+            "question": "I had requested to deactivate my PokerBaazi<br/> account by mistake. How can I reactivate it?",
+            "ans": "<ul> <li> In case you have opted in for a Poker Break for a specific period of time, your account will be reactivated at the end of the specified period. </li><li> In case you have permanently deleted or deactivated your account, this action is permanent. </li></ul>",
+            "id": "faq12"
+        }
+    ],
+    "catagories": [
+        {
+            "name":"Account & KYC Verification",
+            "imgurl":"images/faq/faq-kyc.svg",
+            "clickbtn":"kycbtn"
+        },
+        {
+            "name":"My Account ",
+            "imgurl":"images/faq/faq-Account.svg",
+            "clickbtn":"myaccountbtn"
+        },
+        {
+            "name":"Deposit",
+            "imgurl":"images/faq/faq-deposit.svg",
+            "clickbtn":"depositbtn"
+        },
+        {
+            "name":"Withdrawal",
+            "imgurl":"images/faq/faq-withdrawal.svg",
+            "clickbtn":"withdrawalbtn"
+        },
+        {
+            "name":"TDS",
+            "imgurl":"images/faq/faq-tax.svg",
+            "clickbtn":"tdsbtn"
+        },
+        {
+            "name":"Promotions",
+            "imgurl":"images/faq/faq-promotions.svg",
+            "clickbtn":"promotionsbtn"
+        },
+        {
+            "name":"Invite & Earn",
+            "imgurl":"images/faq/faq-refer.svg",
+            "clickbtn":"invitebtn"
+        },
+        {
+            "name":"Refunds And Winnings",
+            "imgurl":"images/faq/faq-winnings.svg",
+            "clickbtn":"refundsbtn"
+        },
+        {
+            "name":"Unfair Gameplay",
+            "imgurl":"images/faq/faq-unfair.svg",
+            "clickbtn":"unfairbtn"
+        },
+        {
+            "name":"Responsible Gaming",
+            "imgurl":"images/faq/faq-responsible.svg",
+            "clickbtn":"responsiblebtn"
+        },
+        {
+            "name":"Gameplay Technical",
+            "imgurl":"images/faq/faq-technical.svg",
+            "clickbtn":"gameplaybtn"
+        },
+        {
+            "name":"Registration or Sign Up",
+            "imgurl":"images/faq/faq-signup.svg",
+            "clickbtn":"registrationbtn"
+        },
+        {
+            "name":" Events ",
+            "imgurl":"images/faq/faq-events.svg",
+            "clickbtn":"eventsbtn"
+        },
+        {
+            "name":"Gameplay Navigation",
+            "imgurl":"images/faq/faq-game.svg",
+            "clickbtn":"navigationbtn"
+        },
+        {
+            "name":"Gameplay Tutorial",
+            "imgurl":"images/faq/faq-tutorial.svg",
+            "clickbtn":"tutorialbtn"
+        },
+        {
+            "name":"Legality & Compliance",
+            "imgurl":"images/faq/faq-legal.svg",
+            "clickbtn":"legalitybtn"
+        }
+    ],
+    "accountkyc": [
+        {
+           "ques":"I want to update my KYC in my PokerBaazi <br /> account. How do I do that?",
+           "ans":" <p>Follow the steps to update your KYC. </p><ol> <li>Login to your PokerBaazi account through PokerBaazi.com or your mobile application.</li><li>In the mobile application, tap on your avatar and click on My Profile, on the following page upload your address proof, PAN card number, and bank details.</li><li>On the web browser, click on My dashboard and then ‘KYC’ on the following page. Upload your address proof, enter your PAN card number and update your bank details.</li><li>Save the details and wait for the KYC to be approved.</li></ol> <p> NOTE: While uploading KYC, please ensure that the image format should be JPG, PNG & JPEG, the file size should be less than 5 MB and the image should be clear and readable. We accept the bank details of most of the banks. However, the withdrawal is not possible in: </p><ul> <li>Minor bank account</li><li>Joint bank account</li><li>Company’s bank account</li><li>Post Office account</li><li>Any international bank account</li></ul>",
+           "id":"q1"
+        },
+        {
+            "ques":"What if I am unable to upload KYC documents?",
+            "ans":" <p> There could be any of the following reasons for that: </p><ol> <li>If you are trying to enter an incorrect ID number.</li><li>If you are trying to upload an image that is more than 5 MB.</li><li>If you are trying to upload an image that is not JPEG, JPG, or PNG.</li><li>If you are trying to upload any random Image in the KYC section.</li><li>If you are trying to upload an unreadable image of your address proof.</li><li>If there is an Internet Fluctuation while uploading documents.</li><li>We also recommend you to clear cache and cookies from the browser and cache from the application and then re-login.</li></ol> <p> <strong>NOTE:</strong> In case all the above points are checked and ensured. If the issue still persists, we request you to share the screenshot/video. We will immediately get it checked with the technical team. </p>",
+            "id":"q2"
+         },
+         {
+            "ques":"I want to update my KYC in my PokerBaazi <br /> account. How do I do that?",
+            "ans":" <p>Follow the steps to update your KYC. </p><ol> <li>Login to your PokerBaazi account through PokerBaazi.com or your mobile application.</li><li>In the mobile application, tap on your avatar and click on My Profile, on the following page upload your address proof, PAN card number, and bank details.</li><li>On the web browser, click on My dashboard and then ‘KYC’ on the following page. Upload your address proof, enter your PAN card number and update your bank details.</li><li>Save the details and wait for the KYC to be approved.</li></ol> <p> NOTE: While uploading KYC, please ensure that the image format should be JPG, PNG & JPEG, the file size should be less than 5 MB and the image should be clear and readable. We accept the bank details of most of the banks. However, the withdrawal is not possible in: </p><ul> <li>Minor bank account</li><li>Joint bank account</li><li>Company’s bank account</li><li>Post Office account</li><li>Any international bank account</li></ul>",
+            "id":"q3"
+         },
+         {
+             "ques":"What if I am unable to upload KYC documents?",
+             "ans":" <p> There could be any of the following reasons for that: </p><ol> <li>If you are trying to enter an incorrect ID number.</li><li>If you are trying to upload an image that is more than 5 MB.</li><li>If you are trying to upload an image that is not JPEG, JPG, or PNG.</li><li>If you are trying to upload any random Image in the KYC section.</li><li>If you are trying to upload an unreadable image of your address proof.</li><li>If there is an Internet Fluctuation while uploading documents.</li><li>We also recommend you to clear cache and cookies from the browser and cache from the application and then re-login.</li></ol> <p> <strong>NOTE:</strong> In case all the above points are checked and ensured. If the issue still persists, we request you to share the screenshot/video. We will immediately get it checked with the technical team. </p>",
+             "id":"q4"
+          },
+          {
+            "ques":"I want to update my KYC in my PokerBaazi <br /> account. How do I do that?",
+            "ans":" <p>Follow the steps to update your KYC. </p><ol> <li>Login to your PokerBaazi account through PokerBaazi.com or your mobile application.</li><li>In the mobile application, tap on your avatar and click on My Profile, on the following page upload your address proof, PAN card number, and bank details.</li><li>On the web browser, click on My dashboard and then ‘KYC’ on the following page. Upload your address proof, enter your PAN card number and update your bank details.</li><li>Save the details and wait for the KYC to be approved.</li></ol> <p> NOTE: While uploading KYC, please ensure that the image format should be JPG, PNG & JPEG, the file size should be less than 5 MB and the image should be clear and readable. We accept the bank details of most of the banks. However, the withdrawal is not possible in: </p><ul> <li>Minor bank account</li><li>Joint bank account</li><li>Company’s bank account</li><li>Post Office account</li><li>Any international bank account</li></ul>",
+            "id":"q5"
+         },
+         {
+             "ques":"What if I am unable to upload KYC documents?",
+             "ans":" <p> There could be any of the following reasons for that: </p><ol> <li>If you are trying to enter an incorrect ID number.</li><li>If you are trying to upload an image that is more than 5 MB.</li><li>If you are trying to upload an image that is not JPEG, JPG, or PNG.</li><li>If you are trying to upload any random Image in the KYC section.</li><li>If you are trying to upload an unreadable image of your address proof.</li><li>If there is an Internet Fluctuation while uploading documents.</li><li>We also recommend you to clear cache and cookies from the browser and cache from the application and then re-login.</li></ol> <p> <strong>NOTE:</strong> In case all the above points are checked and ensured. If the issue still persists, we request you to share the screenshot/video. We will immediately get it checked with the technical team. </p>",
+             "id":"q6"
+          },
+          {
+            "ques":"I want to update my KYC in my PokerBaazi <br /> account. How do I do that?",
+            "ans":" <p>Follow the steps to update your KYC. </p><ol> <li>Login to your PokerBaazi account through PokerBaazi.com or your mobile application.</li><li>In the mobile application, tap on your avatar and click on My Profile, on the following page upload your address proof, PAN card number, and bank details.</li><li>On the web browser, click on My dashboard and then ‘KYC’ on the following page. Upload your address proof, enter your PAN card number and update your bank details.</li><li>Save the details and wait for the KYC to be approved.</li></ol> <p> NOTE: While uploading KYC, please ensure that the image format should be JPG, PNG & JPEG, the file size should be less than 5 MB and the image should be clear and readable. We accept the bank details of most of the banks. However, the withdrawal is not possible in: </p><ul> <li>Minor bank account</li><li>Joint bank account</li><li>Company’s bank account</li><li>Post Office account</li><li>Any international bank account</li></ul>",
+            "id":"q7"
+         },
+         {
+             "ques":"What if I am unable to upload KYC documents?",
+             "ans":" <p> There could be any of the following reasons for that: </p><ol> <li>If you are trying to enter an incorrect ID number.</li><li>If you are trying to upload an image that is more than 5 MB.</li><li>If you are trying to upload an image that is not JPEG, JPG, or PNG.</li><li>If you are trying to upload any random Image in the KYC section.</li><li>If you are trying to upload an unreadable image of your address proof.</li><li>If there is an Internet Fluctuation while uploading documents.</li><li>We also recommend you to clear cache and cookies from the browser and cache from the application and then re-login.</li></ol> <p> <strong>NOTE:</strong> In case all the above points are checked and ensured. If the issue still persists, we request you to share the screenshot/video. We will immediately get it checked with the technical team. </p>",
+             "id":"q8"
+          },
+          {
+            "ques":"I want to update my KYC in my PokerBaazi <br /> account. How do I do that?",
+            "ans":" <p>Follow the steps to update your KYC. </p><ol> <li>Login to your PokerBaazi account through PokerBaazi.com or your mobile application.</li><li>In the mobile application, tap on your avatar and click on My Profile, on the following page upload your address proof, PAN card number, and bank details.</li><li>On the web browser, click on My dashboard and then ‘KYC’ on the following page. Upload your address proof, enter your PAN card number and update your bank details.</li><li>Save the details and wait for the KYC to be approved.</li></ol> <p> NOTE: While uploading KYC, please ensure that the image format should be JPG, PNG & JPEG, the file size should be less than 5 MB and the image should be clear and readable. We accept the bank details of most of the banks. However, the withdrawal is not possible in: </p><ul> <li>Minor bank account</li><li>Joint bank account</li><li>Company’s bank account</li><li>Post Office account</li><li>Any international bank account</li></ul>",
+            "id":"q9"
+         },
+         {
+             "ques":"What if I am unable to upload KYC documents?",
+             "ans":" <p> There could be any of the following reasons for that: </p><ol> <li>If you are trying to enter an incorrect ID number.</li><li>If you are trying to upload an image that is more than 5 MB.</li><li>If you are trying to upload an image that is not JPEG, JPG, or PNG.</li><li>If you are trying to upload any random Image in the KYC section.</li><li>If you are trying to upload an unreadable image of your address proof.</li><li>If there is an Internet Fluctuation while uploading documents.</li><li>We also recommend you to clear cache and cookies from the browser and cache from the application and then re-login.</li></ol> <p> <strong>NOTE:</strong> In case all the above points are checked and ensured. If the issue still persists, we request you to share the screenshot/video. We will immediately get it checked with the technical team. </p>",
+             "id":"q10"
+          }
+    ]
+}
